@@ -1,0 +1,10 @@
+ultralytics==8.2.93
+opencv-python-headless==4.10.0.84
+fastapi==0.111.0
+uvicorn[standard]==0.30.1
+websockets==12.0
+yt-dlp==2025.01.26
+numpy==1.26.4
+pandas==2.2.2
+git+https://github.com/scikit-fuzzy/scikit-fuzzy.git
+streamlink

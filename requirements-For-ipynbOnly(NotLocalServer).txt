@@ -1,0 +1,6 @@
+numpy
+pandas
+opencv-python
+ultralytics
+yt-dlp
+scikit-fuzzy
