@@ -45,5 +45,11 @@ Steps:
 
 📂 Struktur File
 ```pqsql
-project/ │── server.py # Server FastAPI │── notebook.ipynb # Notebook versi Colab/Jupyter │── requirements-For-ipynbOnly(NotLocalServer).txt │── requirements-With-Local_Server.txt │── cookies.json # (Hasil ekspor dari YouTube)
+project/
+│── server.py                 # Server FastAPI
+│── notebook.ipynb            # Notebook versi Colab/Jupyter
+│── requirements-For-ipynbOnly(NotLocalServer).txt
+│── requirements-With-Local_Server.txt
+│── cookies.json              # (Hasil ekspor dari YouTube)
+
 ```
