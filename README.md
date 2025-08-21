@@ -2,6 +2,7 @@
 This project uses YOLO (Ultralytics) for vehicle detection from YouTube streams/local streams, as well as Fuzzy Logic (scikit-fuzzy) for traffic density analysis.
 
 There are two ways to run this project:
+
 📓 Mode 1 — Jupyter Notebook / Google Colab (Without Local Server)
 
 Use the requirements-For-ipynbOnly(NotLocalServer).txt file.
