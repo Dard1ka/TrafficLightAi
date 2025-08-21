@@ -15,7 +15,7 @@ Steps:
 3. Export cookies from YouTube
    - Install the Get cookies.txt extension by Cookie-Editor.
    - Open youtube.com, then export cookies.
-   - Save the cookies file (JSON format) in the same folder as .ipynb.
+   - Save the cookies file (TXT format) in the same folder as .ipynb.
 
 4. Run the notebook in Jupyter/VSCode Or upload it to Google Colab and immediately select Run all.
    
