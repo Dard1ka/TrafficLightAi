@@ -43,13 +43,13 @@ Steps:
 7. See the results in your browser:
    http://127.0.0.1:8000/viewer 
 
-📂 Struktur File
+📂 File Structure
 ```pqsql
 project/
-│── server.py                 # Server FastAPI
-│── notebook.ipynb            # Notebook versi Colab/Jupyter
+│── server.py                 
+│── AiTrafficLightFixXXX.ipynb            
 │── requirements-For-ipynbOnly(NotLocalServer).txt
 │── requirements-With-Local_Server.txt
-│── cookies.json              # (Hasil ekspor dari YouTube)
+│── cookies.json              
 
 ```
