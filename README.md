@@ -1,7 +1,7 @@
 # TrafficLightAi
 This project uses YOLO (Ultralytics) for vehicle detection from YouTube streams/local streams, as well as Fuzzy Logic (scikit-fuzzy) for traffic density analysis.
 
-There are two ways to run this project:
+There are three ways to run this project:
 
 📓 Mode 1 — Jupyter Notebook / Google Colab (Without Local Server)
 
@@ -43,6 +43,9 @@ Steps:
    ```
 7. See the results in your browser:
    http://127.0.0.1:8000/viewer 
+
+🤗 Mode 3 — Hugging Face (Docker)
+This project is deployed on hugging face spaces https://huggingface.co/spaces/Scremed/aic-traffic-light
 
 📂 File Structure
 ```pqsql
