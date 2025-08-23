@@ -44,8 +44,10 @@ Steps:
 7. See the results in your browser:
    http://127.0.0.1:8000/viewer 
 
-🤗 Mode 3 — Hugging Face (Docker)
-This project is deployed on hugging face spaces https://huggingface.co/spaces/Scremed/aic-traffic-light
+🤗 Mode 3 — Hugging Face (Docker + uses pre-recorded video)
+
+Project deployed on hugging face space: https://huggingface.co/spaces/Scremed/aic-traffic-light.
+Restart the space if the space is asleep
 
 📂 File Structure
 ```pqsql
